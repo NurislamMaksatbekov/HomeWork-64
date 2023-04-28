@@ -1,0 +1,4 @@
+.line{
+    user-select:none;
+    text-decoration: line-through;
+}
